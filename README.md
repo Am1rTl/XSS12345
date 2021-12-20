@@ -1,2 +1,3 @@
-# XSS12345
-XSS
+# XSS
+"</h1><script>alert(1);</script>"
+
